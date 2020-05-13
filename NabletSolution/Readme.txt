@@ -1,4 +1,4 @@
-Приложение NabletSolution реализует функции muxer, demuxer, encoder, decoder.
+Приложение NabletSolution реализует функции muxer, demuxer, encoder, decoder для файлов MP4, AAC.
 
 Приложение использует бибилиотеки:
 nb_dec_aac.dll
